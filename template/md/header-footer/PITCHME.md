@@ -14,8 +14,8 @@
 @size[1.5em](Lorem Ipsum Dolor Sit Amet)
 @snapend
 
-@snap[south span-100]
-@ol[bullet-green](false)
+@snap[center span-100]
+@ol[bullet-green](true)
 - Consectetur adipiscing elit
 - Sed do eiusmod tempor
 - Ut enim ad minim veniam
@@ -37,7 +37,7 @@
 
 @snap[south span-100]
 ![DATAFLOW](template/img/dataflow.png)
-<br><br>
+<br><br><br>
 @snapend
 
 @snap[south-west template-note text-gray]
