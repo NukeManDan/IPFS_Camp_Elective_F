@@ -5,8 +5,26 @@
 
 @fa[arrow-down text-black]
 
-@snap[south docslink span-50]
-[The Template Docs](https://gitpitch.com/docs/the-template)
++++?image=template/img/bg/ipfs_backgroung.png
+![](template/img/bg/gray.jpg&position=center&size=100% 65%)
+
+@title[Header Bar + List Body]
+
+@snap[north text-white span-100]
+@size[1.5em](Lorem Ipsum Dolor Sit Amet)
+@snapend
+
+@snap[south span-100]
+@ol[bullet-green](false)
+- Consectetur adipiscing elit
+- Sed do eiusmod tempor
+- Ut enim ad minim veniam
+- Duis aute irure dolor in
+- Excepteur sint occaecat
+- Cupidatat non proident
+- Sunt in culpa qui officia
+@olend
+<br><br>
 @snapend
 
 
@@ -44,7 +62,6 @@ Footer bar with image body template.
 @snapend
 
 
-+++?image=template/img/bg/black.jpg&position=center&size=100% 65%
 @title[Center Bar + Image Body]
 
 @snap[north span-100]
@@ -59,30 +76,6 @@ Footer bar with image body template.
 Center bar with image body template.
 @snapend
 
-
-+++?image=template/img/bg/purple.jpg&position=top&size=100% 20%
-@title[Header Bar + List Body]
-
-@snap[north text-white span-100]
-@size[1.5em](Lorem Ipsum Dolor Sit Amet)
-@snapend
-
-@snap[south span-100]
-@ol[bullet-green](false)
-- Consectetur adipiscing elit
-- Sed do eiusmod tempor
-- Ut enim ad minim veniam
-- Duis aute irure dolor in
-- Excepteur sint occaecat
-- Cupidatat non proident
-- Sunt in culpa qui officia
-@olend
-<br><br>
-@snapend
-
-@snap[south-west template-note text-gray]
-Header bar with list body template.
-@snapend
 
 
 +++?image=template/img/bg/green.jpg&position=center&size=100% 65%
