@@ -5,10 +5,10 @@
 
 @fa[arrow-down text-black]
 
-+++?image=template/img/bg/ipfs_backgroung.png
-![](template/img/bg/gray.jpg&position=center&size=100% 65%)
-
++++?image=template/img/ipfs_backgroung.png
 @title[Header Bar + List Body]
+
+![](template/img/bg/gray.jpg&position=center&size=100% 65%)
 
 @snap[north text-white span-100]
 @size[1.5em](Lorem Ipsum Dolor Sit Amet)
